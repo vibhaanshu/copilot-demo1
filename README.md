@@ -4,7 +4,7 @@ This repository includes a Vite + React UI prototype generated from the function
 
 ## How to run the UI
 
-From the repository root (`/home/runner/work/copilot-demo1/copilot-demo1`):
+From the repository root:
 
 ```bash
 npm install
