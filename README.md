@@ -1,12 +1,20 @@
 # Campaign Management System UI
 
-This repository now includes a Vite + React UI prototype generated from the functional specification and architecture documents in the root of the repository.
+This repository includes a Vite + React UI prototype generated from the functional specification and architecture documents in the root of the repository.
 
-## Run locally
+## How to run the UI
+
+From the repository root (`/home/runner/work/copilot-demo1/copilot-demo1`):
 
 ```bash
 npm install
 npm run dev
+```
+
+Then open the local URL printed by Vite in your terminal, usually:
+
+```text
+http://localhost:5173/
 ```
 
 ## Validate
